@@ -23,7 +23,7 @@ All the code is contained within **loop.mjs**.
 * Extracts 8k row data within an hour.
 * It can be run in daemon and data will be recieved on mail
 * Every data row contains phone numbers (irrelevant data is filtered)
-* 1000s of keyword data can be extracted without any interruption.
+* 1000s of keyword data can be extracted without any interruption (can run in background)
 
 ### Steps
 
